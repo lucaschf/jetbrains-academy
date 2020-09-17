@@ -1,18 +1,22 @@
 content:
-  - Hello!
-  - Hello, Java
-  - Fizz Buzz
-  - Numbers divisible by six
-  - The product of numbers from a to b
-  - Double characters
-  - Palindrome
-  - Number of occurrences
-  - Replacing 'a' with 'b'
-  - Check the value
-  - The sequence
-  - Convert a date
-  - Tens digit
-  - Interval
-  - Digits from 0 to 9 in a single line
-  - The lucky ticket
-  - The longest word
+- Hello!
+- Hello, Java
+- Fizz Buzz
+- Numbers divisible by six
+- The product of numbers from a to b
+- Double characters
+- Palindrome
+- Number of occurrences
+- Replacing 'a' with 'b'
+- Check the value
+- The sequence
+- Convert a date
+- Tens digit
+- Interval
+- Digits from 0 to 9 in a single line
+- The lucky ticket
+- The longest word
+- Find the first occurrence of the word  the
+- Piece of alphabet
+- Cutting out the middle of a string
+- First, second, third
