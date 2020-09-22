@@ -15,7 +15,7 @@ public class Main {
         String key = xml.substring(xml.indexOf('<') + 1, xml.indexOf('>'));
 
         if (key.endsWith("/")) {
-            key = key.substring(0, key.length() - 1);
+            key = key.substring (0, key.length() - 1);
             return String.format("{\"%s\":null}", key);
         }
 

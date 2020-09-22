@@ -1,0 +1,10 @@
+type: framework
+custom_name: JSON - XML converter
+content:
+- Elementary!
+- Converting attributes
+- Nesting season
+- Parsing JSON
+- Advanced converter
+- More features
+current_task: 1
